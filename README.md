@@ -1,1 +1,3 @@
 # actalike
+
+print('Hello, world!')
